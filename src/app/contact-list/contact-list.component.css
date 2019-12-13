@@ -1,0 +1,28 @@
+/* .table-fixed thead {
+  width: 97%;
+}
+.table-fixed {
+  height: 360px;
+  overflow-y: auto;
+  width: 100%;
+} */
+/* .table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+} */
+
+.body-height {
+   height: 60%;
+   position: absolute;
+   align-self: auto;
+   width: 100%;
+}
+
+.table-responsive {
+    margin-bottom: 1em;
+    height:100%;
+    width: 100%;
+}
+
+td {
+    padding-left: 10px;
+}
